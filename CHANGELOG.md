@@ -1,3 +1,6 @@
+## 20200509
+* 尝试编译
+
 ## 20200508
 * 集成 smartdns
 * 集成 luci-app-smartdns
